@@ -65,11 +65,11 @@
 	},
 	"sources": {
 		"contracts/HelloWorld.sol": {
-			"keccak256": "0xa0d1174e11b435f56990dd6c6a9c3ebc23685f66f7508cb2cd19bc711963532a",
+			"keccak256": "0x5986d54c6e87ef65a9e3085fb1c2ac7905b20d80a4a95d2a91af67776ee3398c",
 			"license": "Unlicense",
 			"urls": [
-				"bzz-raw://7014c9b3733d79112fd365f9970a7ed0335f8411b1820baf29ec29b2fe117076",
-				"dweb:/ipfs/QmfU9SiSmSxDeLjwGr3FkZjfEzsQCQLAFo2rD4UzLGCPDR"
+				"bzz-raw://f580a05817b44d9ecde6aa55e9ce257b7cfe04b3a82d126129c63e58a2ff6e98",
+				"dweb:/ipfs/QmRB8qiqxjFantyMTcGi1SmQK7cFCk73rZKAEuueCNFMAf"
 			]
 		}
 	},
